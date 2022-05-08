@@ -1,0 +1,24 @@
+theme = "awesome-identity"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Filipe Regadas'
+
+## Profile Configurations
+[params.profile]
+  portrait = "images/me.jpg"
+  firstname = "Filipe"
+  lastname = "Regadas"
+  title = "Software Engineer"
+  bio = ""
+
+[params.contacts]
+  email = "oss@regadas.email"
+  github = "regadas"
+  twitter = "regadas"
+  linkedin = "regadas"
+  instagram = "fregadas"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2022 Filipe Regadas"
+  poweredBy = true
