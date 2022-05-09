@@ -2,6 +2,7 @@ theme = "awesome-identity"
 baseURL = 'https://regadas.dev/'
 languageCode = 'en-us'
 title = 'Filipe Regadas'
+googleAnalytics = "G-FHQEE5J0FW"
 
 ## Profile Configurations
 [params.profile]
